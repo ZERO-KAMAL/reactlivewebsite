@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.2fa0723e.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.a62c5702.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.a62c5702.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.231bd59f.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.231bd59f.js.map",
+    "static/css/2.acd75131.chunk.css": "/reactlivewebsite/static/css/2.acd75131.chunk.css",
+    "static/js/2.beb5211e.chunk.js": "/reactlivewebsite/static/js/2.beb5211e.chunk.js",
+    "static/js/2.beb5211e.chunk.js.map": "/reactlivewebsite/static/js/2.beb5211e.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/2.acd75131.chunk.css.map": "/reactlivewebsite/static/css/2.acd75131.chunk.css.map",
+    "static/css/main.2fa0723e.chunk.css.map": "/reactlivewebsite/static/css/main.2fa0723e.chunk.css.map",
+    "static/js/2.beb5211e.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.beb5211e.chunk.js.LICENSE.txt",
+    "static/media/k.19c6b65f.png": "/reactlivewebsite/static/media/k.19c6b65f.png",
+    "static/media/m.b6565506.png": "/reactlivewebsite/static/media/m.b6565506.png",
+    "static/media/n.06c5330c.png": "/reactlivewebsite/static/media/n.06c5330c.png",
+    "static/media/o.39e6c79b.mp4": "/reactlivewebsite/static/media/o.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.231bd59f.js",
+    "static/css/2.acd75131.chunk.css",
+    "static/js/2.beb5211e.chunk.js",
+    "static/css/main.2fa0723e.chunk.css",
+    "static/js/main.a62c5702.chunk.js"
+  ]
+}
